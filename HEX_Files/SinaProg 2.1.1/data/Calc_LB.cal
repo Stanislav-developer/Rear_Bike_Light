@@ -1,0 +1,546 @@
+AT90CAN128	0x03	0x03	Mode 1: No memory lock features enabled
+AT90CAN128	0x03	0x02	Mode 2: Further programming disabled
+AT90CAN128	0x03	0x00	Mode 3: Further programming and verification disabled
+AT90CAN128	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+AT90CAN128	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+AT90CAN128	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+AT90CAN128	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+AT90CAN128	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+AT90CAN128	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+AT90CAN128	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+AT90CAN128	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+AT90CAN32	0x03	0x03	Mode 1: No memory lock features enabled
+AT90CAN32	0x03	0x02	Mode 2: Further programming disabled
+AT90CAN32	0x03	0x00	Mode 3: Further programming and verification disabled
+AT90CAN32	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+AT90CAN32	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+AT90CAN32	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+AT90CAN32	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+AT90CAN32	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+AT90CAN32	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+AT90CAN32	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+AT90CAN32	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+AT90CAN64	0x03	0x03	Mode 1: No memory lock features enabled
+AT90CAN64	0x03	0x02	Mode 2: Further programming disabled
+AT90CAN64	0x03	0x00	Mode 3: Further programming and verification disabled
+AT90CAN64	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+AT90CAN64	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+AT90CAN64	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+AT90CAN64	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+AT90CAN64	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+AT90CAN64	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+AT90CAN64	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+AT90CAN64	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+AT90PWM2	0x03	0x03	Mode 1: No memory lock features enabled
+AT90PWM2	0x03	0x02	Mode 2: Further programming disabled
+AT90PWM2	0x03	0x00	Mode 3: Further programming and verification disabled
+AT90PWM2	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+AT90PWM2	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+AT90PWM2	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+AT90PWM2	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+AT90PWM2	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+AT90PWM2	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+AT90PWM2	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+AT90PWM2	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+AT90PWM2B	0x03	0x03	Mode 1: No memory lock features enabled
+AT90PWM2B	0x03	0x02	Mode 2: Further programming disabled
+AT90PWM2B	0x03	0x00	Mode 3: Further programming and verification disabled
+AT90PWM2B	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+AT90PWM2B	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+AT90PWM2B	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+AT90PWM2B	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+AT90PWM2B	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+AT90PWM2B	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+AT90PWM2B	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+AT90PWM2B	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+AT90PWM3	0x03	0x03	Mode 1: No memory lock features enabled
+AT90PWM3	0x03	0x02	Mode 2: Further programming disabled
+AT90PWM3	0x03	0x00	Mode 3: Further programming and verification disabled
+AT90PWM3	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+AT90PWM3	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+AT90PWM3	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+AT90PWM3	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+AT90PWM3	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+AT90PWM3	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+AT90PWM3	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+AT90PWM3	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+AT90PWM3B	0x03	0x03	Mode 1: No memory lock features enabled
+AT90PWM3B	0x03	0x02	Mode 2: Further programming disabled
+AT90PWM3B	0x03	0x00	Mode 3: Further programming and verification disabled
+AT90PWM3B	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+AT90PWM3B	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+AT90PWM3B	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+AT90PWM3B	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+AT90PWM3B	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+AT90PWM3B	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+AT90PWM3B	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+AT90PWM3B	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+AT90USB1286	0x03	0x03	Mode 1: No memory lock features enabled
+AT90USB1286	0x03	0x02	Mode 2: Further programming disabled
+AT90USB1286	0x03	0x00	Mode 3: Further programming and verification disabled
+AT90USB1286	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+AT90USB1286	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+AT90USB1286	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+AT90USB1286	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+AT90USB1286	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+AT90USB1286	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+AT90USB1286	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+AT90USB1286	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+AT90USB1287	0x03	0x03	Mode 1: No memory lock features enabled
+AT90USB1287	0x03	0x02	Mode 2: Further programming disabled
+AT90USB1287	0x03	0x00	Mode 3: Further programming and verification disabled
+AT90USB1287	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+AT90USB1287	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+AT90USB1287	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+AT90USB1287	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+AT90USB1287	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+AT90USB1287	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+AT90USB1287	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+AT90USB1287	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+AT90USB162	0x03	0x03	Mode 1: No memory lock features enabled
+AT90USB162	0x03	0x02	Mode 2: Further programming disabled
+AT90USB162	0x03	0x00	Mode 3: Further programming and verification disabled
+AT90USB162	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+AT90USB162	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+AT90USB162	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+AT90USB162	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+AT90USB162	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+AT90USB162	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+AT90USB162	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+AT90USB162	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+AT90USB646	0x03	0x03	Mode 1: No memory lock features enabled
+AT90USB646	0x03	0x02	Mode 2: Further programming disabled
+AT90USB646	0x03	0x00	Mode 3: Further programming and verification disabled
+AT90USB646	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+AT90USB646	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+AT90USB646	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+AT90USB646	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+AT90USB646	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+AT90USB646	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+AT90USB646	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+AT90USB646	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+AT90USB647	0x03	0x03	Mode 1: No memory lock features enabled
+AT90USB647	0x03	0x02	Mode 2: Further programming disabled
+AT90USB647	0x03	0x00	Mode 3: Further programming and verification disabled
+AT90USB647	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+AT90USB647	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+AT90USB647	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+AT90USB647	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+AT90USB647	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+AT90USB647	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+AT90USB647	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+AT90USB647	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+ATmega103	0x03	0x03	Mode 1: No memory lock features enabled
+ATmega103	0x03	0x02	Mode 2: Further programming disabled
+ATmega103	0x03	0x00	Mode 3: Further programming and verification disabled
+ATmega103	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+ATmega103	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+ATmega103	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+ATmega103	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+ATmega103	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+ATmega103	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+ATmega103	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+ATmega103	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+ATmega128	0x03	0x03	Mode 1: No memory lock features enabled
+ATmega128	0x03	0x02	Mode 2: Further programming disabled
+ATmega128	0x03	0x00	Mode 3: Further programming and verification disabled
+ATmega128	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+ATmega128	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+ATmega128	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+ATmega128	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+ATmega128	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+ATmega128	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+ATmega128	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+ATmega128	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+ATmega1280	0x03	0x03	Mode 1: No memory lock features enabled
+ATmega1280	0x03	0x02	Mode 2: Further programming disabled
+ATmega1280	0x03	0x00	Mode 3: Further programming and verification disabled
+ATmega1280	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+ATmega1280	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+ATmega1280	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+ATmega1280	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+ATmega1280	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+ATmega1280	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+ATmega1280	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+ATmega1280	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+ATmega1281	0x03	0x03	Mode 1: No memory lock features enabled
+ATmega1281	0x03	0x02	Mode 2: Further programming disabled
+ATmega1281	0x03	0x00	Mode 3: Further programming and verification disabled
+ATmega1281	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+ATmega1281	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+ATmega1281	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+ATmega1281	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+ATmega1281	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+ATmega1281	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+ATmega1281	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+ATmega1281	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+ATmega16	0x03	0x03	Mode 1: No memory lock features enabled
+ATmega16	0x03	0x02	Mode 2: Further programming disabled
+ATmega16	0x03	0x00	Mode 3: Further programming and verification disabled
+ATmega16	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+ATmega16	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+ATmega16	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+ATmega16	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+ATmega16	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+ATmega16	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+ATmega16	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+ATmega16	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+ATmega161	0x03	0x03	Mode 1: No memory lock features enabled
+ATmega161	0x03	0x02	Mode 2: Further programming disabled
+ATmega161	0x03	0x00	Mode 3: Further programming and verification disabled
+ATmega161	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+ATmega161	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+ATmega161	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+ATmega161	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+ATmega161	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+ATmega161	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+ATmega161	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+ATmega161	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+ATmega162	0x03	0x03	Mode 1: No memory lock features enabled
+ATmega162	0x03	0x02	Mode 2: Further programming disabled
+ATmega162	0x03	0x00	Mode 3: Further programming and verification disabled
+ATmega162	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+ATmega162	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+ATmega162	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+ATmega162	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+ATmega162	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+ATmega162	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+ATmega162	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+ATmega162	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+ATmega163	0x03	0x03	Mode 1: No memory lock features enabled
+ATmega163	0x03	0x02	Mode 2: Further programming disabled
+ATmega163	0x03	0x00	Mode 3: Further programming and verification disabled
+ATmega163	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+ATmega163	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+ATmega163	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+ATmega163	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+ATmega163	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+ATmega163	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+ATmega163	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+ATmega163	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+ATmega164P	0x03	0x03	Mode 1: No memory lock features enabled
+ATmega164P	0x03	0x02	Mode 2: Further programming disabled
+ATmega164P	0x03	0x00	Mode 3: Further programming and verification disabled
+ATmega164P	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+ATmega164P	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+ATmega164P	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+ATmega164P	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+ATmega164P	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+ATmega164P	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+ATmega164P	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+ATmega164P	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+ATmega168	0x03	0x03	Mode 1: No memory lock features enabled
+ATmega168	0x03	0x02	Mode 2: Further programming disabled
+ATmega168	0x03	0x00	Mode 3: Further programming and verification disabled
+ATmega168	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+ATmega168	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+ATmega168	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+ATmega168	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+ATmega168	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+ATmega168	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+ATmega168	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+ATmega168	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+ATmega169	0x03	0x03	Mode 1: No memory lock features enabled
+ATmega169	0x03	0x02	Mode 2: Further programming disabled
+ATmega169	0x03	0x00	Mode 3: Further programming and verification disabled
+ATmega169	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+ATmega169	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+ATmega169	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+ATmega169	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+ATmega169	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+ATmega169	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+ATmega169	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+ATmega169	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+ATmega2560	0x03	0x03	Mode 1: No memory lock features enabled
+ATmega2560	0x03	0x02	Mode 2: Further programming disabled
+ATmega2560	0x03	0x00	Mode 3: Further programming and verification disabled
+ATmega2560	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+ATmega2560	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+ATmega2560	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+ATmega2560	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+ATmega2560	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+ATmega2560	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+ATmega2560	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+ATmega2560	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+ATmega2561	0x03	0x03	Mode 1: No memory lock features enabled
+ATmega2561	0x03	0x02	Mode 2: Further programming disabled
+ATmega2561	0x03	0x00	Mode 3: Further programming and verification disabled
+ATmega2561	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+ATmega2561	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+ATmega2561	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+ATmega2561	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+ATmega2561	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+ATmega2561	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+ATmega2561	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+ATmega2561	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+ATmega32	0x03	0x03	Mode 1: No memory lock features enabled
+ATmega32	0x03	0x02	Mode 2: Further programming disabled
+ATmega32	0x03	0x00	Mode 3: Further programming and verification disabled
+ATmega32	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+ATmega32	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+ATmega32	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+ATmega32	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+ATmega32	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+ATmega32	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+ATmega32	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+ATmega32	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+ATmega324P	0x03	0x03	Mode 1: No memory lock features enabled
+ATmega324P	0x03	0x02	Mode 2: Further programming disabled
+ATmega324P	0x03	0x00	Mode 3: Further programming and verification disabled
+ATmega324P	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+ATmega324P	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+ATmega324P	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+ATmega324P	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+ATmega324P	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+ATmega324P	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+ATmega324P	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+ATmega324P	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+ATmega325	0x03	0x03	Mode 1: No memory lock features enabled
+ATmega325	0x03	0x02	Mode 2: Further programming disabled
+ATmega325	0x03	0x00	Mode 3: Further programming and verification disabled
+ATmega325	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+ATmega325	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+ATmega325	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+ATmega325	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+ATmega325	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+ATmega325	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+ATmega325	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+ATmega325	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+ATmega3250	0x03	0x03	Mode 1: No memory lock features enabled
+ATmega3250	0x03	0x02	Mode 2: Further programming disabled
+ATmega3250	0x03	0x00	Mode 3: Further programming and verification disabled
+ATmega3250	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+ATmega3250	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+ATmega3250	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+ATmega3250	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+ATmega3250	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+ATmega3250	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+ATmega3250	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+ATmega3250	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+ATmega329	0x03	0x03	Mode 1: No memory lock features enabled
+ATmega329	0x03	0x02	Mode 2: Further programming disabled
+ATmega329	0x03	0x00	Mode 3: Further programming and verification disabled
+ATmega329	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+ATmega329	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+ATmega329	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+ATmega329	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+ATmega329	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+ATmega329	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+ATmega329	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+ATmega329	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+ATmega3290	0x03	0x03	Mode 1: No memory lock features enabled
+ATmega3290	0x03	0x02	Mode 2: Further programming disabled
+ATmega3290	0x03	0x00	Mode 3: Further programming and verification disabled
+ATmega3290	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+ATmega3290	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+ATmega3290	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+ATmega3290	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+ATmega3290	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+ATmega3290	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+ATmega3290	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+ATmega3290	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+ATmega3290P	0x03	0x03	Mode 1: No memory lock features enabled
+ATmega3290P	0x03	0x02	Mode 2: Further programming disabled
+ATmega3290P	0x03	0x00	Mode 3: Further programming and verification disabled
+ATmega3290P	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+ATmega3290P	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+ATmega3290P	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+ATmega3290P	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+ATmega3290P	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+ATmega3290P	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+ATmega3290P	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+ATmega3290P	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+ATmega329P	0x03	0x03	Mode 1: No memory lock features enabled
+ATmega329P	0x03	0x02	Mode 2: Further programming disabled
+ATmega329P	0x03	0x00	Mode 3: Further programming and verification disabled
+ATmega329P	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+ATmega329P	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+ATmega329P	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+ATmega329P	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+ATmega329P	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+ATmega329P	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+ATmega329P	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+ATmega329P	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+ATmega48	0x03	0x03	Mode 1: No memory lock features enabled
+ATmega48	0x03	0x02	Mode 2: Further programming disabled
+ATmega48	0x03	0x00	Mode 3: Further programming and verification disabled
+ATmega64	0x03	0x03	Mode 1: No memory lock features enabled
+ATmega64	0x03	0x02	Mode 2: Further programming disabled
+ATmega64	0x03	0x00	Mode 3: Further programming and verification disabled
+ATmega64	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+ATmega64	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+ATmega64	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+ATmega64	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+ATmega64	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+ATmega64	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+ATmega64	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+ATmega64	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+ATmega640	0x03	0x03	Mode 1: No memory lock features enabled
+ATmega640	0x03	0x02	Mode 2: Further programming disabled
+ATmega640	0x03	0x00	Mode 3: Further programming and verification disabled
+ATmega640	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+ATmega640	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+ATmega640	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+ATmega640	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+ATmega640	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+ATmega640	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+ATmega640	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+ATmega640	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+ATmega644	0x03	0x03	Mode 1: No memory lock features enabled
+ATmega644	0x03	0x02	Mode 2: Further programming disabled
+ATmega644	0x03	0x00	Mode 3: Further programming and verification disabled
+ATmega644	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+ATmega644	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+ATmega644	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+ATmega644	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+ATmega644	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+ATmega644	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+ATmega644	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+ATmega644	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+ATmega644P	0x03	0x03	Mode 1: No memory lock features enabled
+ATmega644P	0x03	0x02	Mode 2: Further programming disabled
+ATmega644P	0x03	0x00	Mode 3: Further programming and verification disabled
+ATmega644P	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+ATmega644P	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+ATmega644P	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+ATmega644P	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+ATmega644P	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+ATmega644P	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+ATmega644P	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+ATmega644P	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+ATmega645	0x03	0x03	Mode 1: No memory lock features enabled
+ATmega645	0x03	0x02	Mode 2: Further programming disabled
+ATmega645	0x03	0x00	Mode 3: Further programming and verification disabled
+ATmega645	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+ATmega645	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+ATmega645	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+ATmega645	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+ATmega645	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+ATmega645	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+ATmega645	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+ATmega645	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+ATmega6450	0x03	0x03	Mode 1: No memory lock features enabled
+ATmega6450	0x03	0x02	Mode 2: Further programming disabled
+ATmega6450	0x03	0x00	Mode 3: Further programming and verification disabled
+ATmega6450	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+ATmega6450	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+ATmega6450	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+ATmega6450	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+ATmega6450	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+ATmega6450	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+ATmega6450	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+ATmega6450	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+ATmega649	0x03	0x03	Mode 1: No memory lock features enabled
+ATmega649	0x03	0x02	Mode 2: Further programming disabled
+ATmega649	0x03	0x00	Mode 3: Further programming and verification disabled
+ATmega649	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+ATmega649	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+ATmega649	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+ATmega649	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+ATmega649	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+ATmega649	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+ATmega649	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+ATmega649	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+ATmega6490	0x03	0x03	Mode 1: No memory lock features enabled
+ATmega6490	0x03	0x02	Mode 2: Further programming disabled
+ATmega6490	0x03	0x00	Mode 3: Further programming and verification disabled
+ATmega6490	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+ATmega6490	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+ATmega6490	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+ATmega6490	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+ATmega6490	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+ATmega6490	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+ATmega6490	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+ATmega6490	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+ATmega8	0x03	0x03	Mode 1: No memory lock features enabled
+ATmega8	0x03	0x02	Mode 2: Further programming disabled
+ATmega8	0x03	0x00	Mode 3: Further programming and verification disabled
+ATmega8	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+ATmega8	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+ATmega8	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+ATmega8	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+ATmega8	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+ATmega8	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+ATmega8	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+ATmega8	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+ATmega8515	0x03	0x03	Mode 1: No memory lock features enabled
+ATmega8515	0x03	0x02	Mode 2: Further programming disabled
+ATmega8515	0x03	0x00	Mode 3: Further programming and verification disabled
+ATmega8515	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+ATmega8515	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+ATmega8515	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+ATmega8515	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+ATmega8515	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+ATmega8515	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+ATmega8515	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+ATmega8515	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+ATmega8535	0x03	0x03	Mode 1: No memory lock features enabled
+ATmega8535	0x03	0x02	Mode 2: Further programming disabled
+ATmega8535	0x03	0x00	Mode 3: Further programming and verification disabled
+ATmega8535	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+ATmega8535	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+ATmega8535	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+ATmega8535	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+ATmega8535	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+ATmega8535	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+ATmega8535	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+ATmega8535	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+ATmega88	0x03	0x03	Mode 1: No memory lock features enabled
+ATmega88	0x03	0x02	Mode 2: Further programming disabled
+ATmega88	0x03	0x00	Mode 3: Further programming and verification disabled
+ATmega88	0x0c	0x0c	Application Protection Mode 1: No lock on SPM and LPM in Application Section
+ATmega88	0x0c	0x08	Application Protection Mode 2: SPM prohibited in Application Section
+ATmega88	0x0c	0x00	Application Protection Mode 3: LPM and SPM prohibited in Application Section
+ATmega88	0x0c	0x04	Application Protection Mode 4: LPM prohibited in Application Section
+ATmega88	0x30	0x30	Boot Loader Protection Mode 1: No lock on SPM and LPM in Boot Loader Section
+ATmega88	0x30	0x20	Boot Loader Protection Mode 2: SPM prohibited in Boot Loader Section
+ATmega88	0x30	0x00	Boot Loader Protection Mode 3: LPM and SPM prohibited in Boot Loader Section
+ATmega88	0x30	0x10	Boot Loader Protection Mode 4: LPM prohibited in Boot Loader Section
+ATtiny11	0x06	0x06	Mode 1: No memory lock features enabled
+ATtiny11	0x06	0x04	Mode 2: Further programming disabled
+ATtiny11	0x06	0x00	Mode 3: Further programming and verification disabled
+ATtiny12	0x06	0x06	Mode 1: No memory lock features enabled
+ATtiny12	0x06	0x04	Mode 2: Further programming disabled
+ATtiny12	0x06	0x00	Mode 3: Further programming and verification disabled
+ATtiny13	0x03	0x03	Mode 1: No memory lock features enabled
+ATtiny13	0x03	0x02	Mode 2: Further programming disabled
+ATtiny13	0x03	0x00	Mode 3: Further programming and verification disabled
+ATtiny15	0x06	0x06	Mode 1: No memory lock features enabled
+ATtiny15	0x06	0x04	Mode 2: Further programming disabled
+ATtiny15	0x06	0x00	Mode 3: Further programming and verification disabled
+ATtiny22	0x06	0x06	Mode 1: No memory lock features enabled
+ATtiny22	0x06	0x04	Mode 2: Further programming disabled
+ATtiny22	0x06	0x00	Mode 3: Further programming and verification disabled
+ATtiny2313	0x03	0x03	Mode 1: No memory lock features enabled
+ATtiny2313	0x03	0x02	Mode 2: Further programming disabled
+ATtiny2313	0x03	0x00	Mode 3: Further programming and verification disabled
+ATtiny24	0x03	0x03	Mode 1: No memory lock features enabled
+ATtiny24	0x03	0x02	Mode 2: Further programming disabled
+ATtiny24	0x03	0x00	Mode 3: Further programming and verification disabled
+ATtiny25	0x03	0x03	Mode 1: No memory lock features enabled
+ATtiny25	0x03	0x02	Mode 2: Further programming disabled
+ATtiny25	0x03	0x00	Mode 3: Further programming and verification disabled
+ATtiny26	0x03	0x03	Mode 1: No memory lock features enabled
+ATtiny26	0x03	0x02	Mode 2: Further programming disabled
+ATtiny26	0x03	0x00	Mode 3: Further programming and verification disabled
+ATtiny261	0x03	0x03	Mode 1: No memory lock features enabled
+ATtiny261	0x03	0x02	Mode 2: Further programming disabled
+ATtiny261	0x03	0x00	Mode 3: Further programming and verification disabled
+ATtiny44	0x03	0x03	Mode 1: No memory lock features enabled
+ATtiny44	0x03	0x02	Mode 2: Further programming disabled
+ATtiny44	0x03	0x00	Mode 3: Further programming and verification disabled
+ATtiny45	0x03	0x03	Mode 1: No memory lock features enabled
+ATtiny45	0x03	0x02	Mode 2: Further programming disabled
+ATtiny45	0x03	0x00	Mode 3: Further programming and verification disabled
+ATtiny461	0x03	0x03	Mode 1: No memory lock features enabled
+ATtiny461	0x03	0x02	Mode 2: Further programming disabled
+ATtiny461	0x03	0x00	Mode 3: Further programming and verification disabled
+ATtiny84	0x03	0x03	Mode 1: No memory lock features enabled
+ATtiny84	0x03	0x02	Mode 2: Further programming disabled
+ATtiny84	0x03	0x00	Mode 3: Further programming and verification disabled
+ATtiny85	0x03	0x03	Mode 1: No memory lock features enabled
+ATtiny85	0x03	0x02	Mode 2: Further programming disabled
+ATtiny85	0x03	0x00	Mode 3: Further programming and verification disabled
+ATtiny861	0x03	0x03	Mode 1: No memory lock features enabled
+ATtiny861	0x03	0x02	Mode 2: Further programming disabled
+ATtiny861	0x03	0x00	Mode 3: Further programming and verification disabled
