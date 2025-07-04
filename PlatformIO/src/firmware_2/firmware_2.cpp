@@ -2,7 +2,7 @@
 Rear Bike Light - Firmware_2(Alternative firmware)
 
 * Author: Stanislav (GitHub: https://github.com/Stanislav-developer || Youtube: https://www.youtube.com/@TehnoMaisterna)
-* Репозиторій проекту: https://github.com/Stanislav-developer/rear_bike_light
+* Репозиторій проекту: https://github.com/Stanislav-developer/Rear_Bike_Light
 * Date: 01-06-2025
 * Ліцензія: MIT License – проєкт відкритий, вільно використовуй з зазначенням автора 
 
