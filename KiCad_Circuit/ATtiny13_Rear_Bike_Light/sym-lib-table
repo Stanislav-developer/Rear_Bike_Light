@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ATtiny13")(type "KiCad")(uri "${KIPRJMOD}/ATtiny13.kicad_sym")(options "")(descr ""))
+  (lib (name "AMC7135")(type "KiCad")(uri "${KIPRJMOD}/AMC7135.kicad_sym")(options "")(descr ""))
+  (lib (name "TP4056")(type "KiCad")(uri "${KIPRJMOD}/TP4056.kicad_sym")(options "")(descr ""))
+)
