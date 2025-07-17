@@ -290,4 +290,4 @@ void loop() {
 // Усі режими стабільні, збереження в EEPROM працює
 // Режим сну перевірено — 30μA в sleep_mode
 
-// Код протестовано на ATtiny13A @9.6 MHz, BOD level - 2.7V, живлення 3.7В Li-ion (Fuses: lfuse: 7A hfuse: FB)
+// Код протестовано на ATtiny13A @9.6 MHz, BOD level - 2.7V, живлення 3.7В Li-ion (Fuses: lfuse: 3A hfuse: FB)
