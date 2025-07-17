@@ -13,7 +13,7 @@
 ## 📹 [Відеодемонстрація роботи](https://youtu.be/wDcFlRhbskA)
 
 ## 📹 [Огляд на YouTube](https://youtu.be/1oe5jdDxHSc?si=8W26TBC_-2FZ_93R)
-[![Video](https://raw.githubusercontent.com/Stanislav-developer/Rear_Bike_Light/refs/heads/main/Materials/Photo5.png)](https://youtu.be/97HYgrZyGLY?si=GF9p3uHAp89gcZJ-)
+[![Video](https://raw.githubusercontent.com/Stanislav-developer/Rear_Bike_Light/refs/heads/main/Materials/Photo2.png)](https://youtu.be/97HYgrZyGLY?si=GF9p3uHAp89gcZJ-)
 
 # 📝 Можливості ліхтарика
 - ### Керування однією кнопкою (довге/коротке натискання)
