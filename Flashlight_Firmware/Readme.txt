@@ -1,4 +1,6 @@
-Спершу встановіть ядро для роботи з ATtiny13:
+Спершу переконайтеся що у вас встановлено драйвер на USBasp програматор.
+
+Тепер встановіть ядро для роботи з ATtiny13:
 
 Установка ядра MicroCore в Arduino IDE
 Для роботи MicroCore потрібна версія Arduino IDE не нижче 1.6.13.
@@ -27,9 +29,9 @@ https://mcudude.github.io/MicroCore/package_MCUdude_MicroCore_index.json
 Board(плата): ATtiny13 (MicroCore → ATtiny13)
 BOD: BOD 2.7
 EEPROM: EEPROM retained
-Clock: 9.6 MHz
+Clock: 1.2 MHz
 
-Programmer(програматор): USBasp або Arduino as ISP(Якщо ви прошиваєте через плату Arduino UNO,NANO)
+Programmer(програматор): USBasp 
 
 Перед прошивкою рекомендується спершу записати Bootloader у мікроконтролер(для цього у самому низу натисніть Burn Bootloader (Записати завантажувач)
 

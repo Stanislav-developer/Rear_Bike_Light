@@ -1,38 +1,28 @@
-# __Rear_Bike_Light__
-![Static Badge](https://img.shields.io/badge/V1.0-green)
-![Static Badge](https://img.shields.io/badge/Arduino-orange)
-![Static Badge](https://img.shields.io/badge/PlatformIO-orange)
-![Static Badge](https://img.shields.io/badge/ATtiny13-orange)
-![Static Badge](https://img.shields.io/badge/Flashlight-yellow)
-![Static Badge](https://img.shields.io/badge/DIY-orange)
+# __Alternative_Firmware__
 
-## __DIY велоліхтарик__ 🚲 🔦
-### Простий та функціональний задній ліхтарик для велосипеда на базі мікроконтролера ATtiny13. Ліхтарик має різні режими світіння, функцію пам’яті режимів та енергозбереження, стабілізацію яскравості і працює від Li-Ion акумулятора
-![Photo1](https://raw.githubusercontent.com/Stanislav-developer/Rear_Bike_Light/refs/heads/main/Materials/Photo1.jpg)
+## Альтернативна прошивка для ліхтарика з можливістю керувати двома світлодіодами. За основу взятий третій варіант прошивики Rear_Bike_Light та трішки перероблений.
 
-### 📹 [Відеодемонстрація роботи](https://youtu.be/wDcFlRhbskA)
+## Основні зміни:
+- Переніс переривання з INT0 на PCINT
+- Робота з EEPROM тепер реалізується за допомогою Arduino бібліотеки 
+- Тепер задіяні два піна мікрокнотролера для керування
+  
+## Примітки:
+Оскільки переривання тепер на PCINT то ми можемо не обмежуватись тільки одним 6 піном з перериванням INT0, а використовувати кнопку на решту п'яти пінах, у коді потрібно тільки змінити змінну butPin на номер піну та номер PCINT змінити на відповідний. Також оскільки третій варіант прошивки займав не так багато місця у пам'яті МК, я вирішив реаліувати роботу з EEPROM не через чистий C а через Arduino бібліотеку яка для багатьох буде зрозумілішою.
 
-### 📹 [Огляд на YouTube](https://youtu.be/hUzTWR3Yd6k?si=01EYvAU8pgUhFRcD)
-[![Photo1](https://raw.githubusercontent.com/Stanislav-developer/Rear_Bike_Light/refs/heads/main/Materials/Photo3.png)](https://youtu.be/hUzTWR3Yd6k)
+## Розпіновка ATtiny13:
+![photo1](https://camo.githubusercontent.com/07803fa9a0c8fa2cb41fb8ece99b68048f2dd247826ae0d74dad512728b6c26f/68747470733a2f2f692e696d6775722e636f6d2f364c367262534f2e706e67)
 
-## 📝 Можливості ліхтарика
-- ### Керування однією кнопкою (довге/коротке натискання)
-- ### Режими світіння: 3 рівня яскравості, миготіння, дихаючий режим, еко-режим
-- ### Запам’ятовує останній режим (енергонезалежна EEPROM пам’ять)
-- ### Стабілізована яскравість (AMC7135)
-- ### Дуже низьке споживання енергії в режимі сну (~20 мкА)
 
-## Схема ліхтарика:
-![Photo1](https://raw.githubusercontent.com/Stanislav-developer/Rear_Bike_Light/refs/heads/main/Materials/Rear_Bike_Light_Circuit.png)
-### Перелік компонентів, інструкція з пайки та схема розміщені у [PDF документації](https://github.com/Stanislav-developer/Rear_Bike_Light/blob/main/Rear_Bike_Light.pdf)
+## Альтернативна схема ліхтарика:
+![photo1](https://raw.githubusercontent.com/Stanislav-developer/Rear_Bike_Light/refs/heads/Alternative-Firmware/Alternative%20circuit.png)
 
-## 📑 [PDF документ](https://github.com/Stanislav-developer/Rear_Bike_Light/blob/main/Rear_Bike_Light.pdf) у якому описав весь функціонал, збірку та прошивку ліхтарика.
+## Фото ліхтарика:
+![photo1](https://raw.githubusercontent.com/Stanislav-developer/Rear_Bike_Light/refs/heads/Alternative-Firmware/Photo1.jpg)
 
-### Поточна версія проекту: 1.0
+![photo1](https://raw.githubusercontent.com/Stanislav-developer/Rear_Bike_Light/refs/heads/Alternative-Firmware/Photo2.jpg)
 
-### [Мій YouTube](https://www.youtube.com/@TehnoMaisterna)
-### [Мій GitHub](https://github.com/Stanislav-developer)
 
-### 2025.07.20
+### 2025.07.26
 
 
